@@ -1,0 +1,1 @@
+delete from demo_users where id in (1,2);
